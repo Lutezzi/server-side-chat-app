@@ -33,10 +33,6 @@ Terminalinizi açın ve proje dosyalarınızın olduğu dizine girin.
 Gerekli paketleri `node_modules` klasörüne indirmek için:
 ```bash
 npm install
-
----
-
-```bash
 npm start
 
 Sunucu başarıyla başladığında terminalde server.js dosyasının çalıştığına dair bir log göreceksiniz.
