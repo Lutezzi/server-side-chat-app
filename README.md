@@ -34,6 +34,8 @@ Gerekli paketleri `node_modules` klasörüne indirmek için:
 ```bash
 npm install
 
+---
+
 ```bash
 npm start
 
