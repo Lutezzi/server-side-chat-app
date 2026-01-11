@@ -14,8 +14,8 @@ Bu proje, **Node.js**, **Express** ve **Socket.io** kullanılarak geliştirilmi�
 
 ## 🛠️ Kullanılan Teknolojiler
 
-| Bağımlılık | Versiyon | Açıklama |
-| :--- | :--- |
+| Bağımlılık | Versiyon | Açıklama |<br />
+| :--- | :--- |<br />
 | **Express** | Web sunucusu ve API yönetimi |
 | **Socket.io** | Gerçek zamanlı WebSocket iletişimi |
 | **Node.js** | JavaScript çalışma ortamı |
